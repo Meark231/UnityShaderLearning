@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 7-1m
-  m_Shader: {fileID: 4800000, guid: 31de63735b52fd2489fb6abbe742efc9, type: 3}
+  m_Name: 7-2mworld
+  m_Shader: {fileID: 4800000, guid: e76e1803d440a74448e2257699e7d672, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 1b490dc4eefa0aa4aaed8ba3a1c80b09, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -44,8 +44,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: acd0ab7aac5b16043820e2b192eabd9f, type: 3}
-        m_Scale: {x: 3.64, y: 3.77}
+        m_Texture: {fileID: 2800000, guid: 9bb32e4cce13ab84c98da88913274ab6, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
